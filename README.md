@@ -46,6 +46,8 @@ It's usually hard to find good hosting services. You can't get a good free one n
 
 ### Source - r/imguralternatives \ Imgur Alternatives
 
+![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/divider36058.png)
+
 # Multipurpose Hosting
 
 These hosts will host **any** file for you. This includes all files types such as `archived files, images, etc`. They're all free to use.
@@ -64,6 +66,7 @@ This one is the hardest to find, not only is it highly in demand for developers.
 
 These are the only options I were able to find that were good. Linode is an all-purpose hosting service which hosts `VMs` and `VPS`. Which you are free to install whatever you like.
 
+![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/divider36058.png)
 
 # Resources
 These sites provide you many resources to start-up your journey through whatever you are going through. These are mainly `Developer-focused` and might not have much use If you are looking forward into just casual use.
@@ -92,6 +95,7 @@ These options are usually not multipurpose and are mainly focused on **Unity**.
 
 There are **wwwaaayyy** more resources that you may find online. Just research online and find what you prefer, We'll include some of the Pull Requests to edit this section
 
+![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/divider36058.png)
 
 # It's about time we talk about **extensions**.
 Extensions are a great way to enhance your browser experience. It has so many possibilites to be created into such useful extensions. I'll be mentioning some today.
@@ -105,6 +109,8 @@ Extensions are a great way to enhance your browser experience. It has so many po
 - [Shazam](https://chrome.google.com/webstore/detail/shazam-find-song-names-fr/mmioliijnhnoblpgimnlajmefafdfilb) - Easily find music you find online with this tool by Apple.
 
 - [momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) - An really clean looking homepage for chrome. No ads.
+
+![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/divider36058.png)
 
 [![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
 
