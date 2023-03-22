@@ -1,7 +1,7 @@
 
 ![WELCOME](https://u.cubeupload.com/LeonFinnaCrazy/download3.png)
 
-# simplistic.site
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=simplistic.sites)](https://git.io/typing-svg)
 An repository containing some really useful, simple, and free sites to use.
 
 ### What exactly does this contain?
