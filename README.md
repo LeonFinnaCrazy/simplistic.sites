@@ -60,11 +60,9 @@ This one is the hardest to find, not only is it highly in demand for developers.
 
 - [PylexHosting](https://client.pylexnodes.net/) - An underrated hosting that provides `Minecraft Servers, NodeJS and Python` hosting. `10240MB Disk, 3072MB Ram, 150% CPU`
 
-- [Free Hosting](https://www.freehosting.com/) - An somewhat popular hosting providing all the tools you need to make your own site. `Custom domain, cPanel, Site Builder`.
-
 - [Linode](https://www.linode.com/) - Best option If you're looking for messing around with VMs and etc.
 
-These are the only options I were able to find that were good. Linode is an all-purpose hosting service which hosts `VMs` and `VPS`. Which you are free to install whatever you like.
+These are the only options I were able to find that were good. Linode is an all-purpose hosting service which hosts `VMs` and `VPS`. Which you are free to install whatever you like. Web hosting is to be added soon...
 
 ![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/PngItem5178921.png)
 # Resources
