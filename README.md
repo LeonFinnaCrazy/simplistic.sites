@@ -1,8 +1,7 @@
 
 ![WELCOME](https://u.cubeupload.com/LeonFinnaCrazy/download3.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=simplistic.sites)](https://git.io/typing-svg)
-An repository containing some really useful, simple, and free sites to use.
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=simplistic.sites;An+repository+containing+some+really+useful,+simple,+and free sites to use.)](https://git.io/typing-svg)
 
 ### What exactly does this contain?
 This repository contains free to use sites that get their purpose done. For example, if you go to `imgur.com`. You'll probably upload or find some pictures. But the site asks you to login, make your own, etc. Even if you don't want to do that.
