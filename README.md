@@ -20,7 +20,7 @@ This repository is something that dosen't contain sites like that.
 
  
 
-# ![BORDER](https://u.cubeupload.com/LeonFinnaCrazy/longlinesstraightlin.png)Hosting Services
+# Hosting Services
 
 It's usually hard to find good hosting services. You can't get a good free one nowadays. Here you may find some liable options.
 
@@ -65,7 +65,7 @@ This one is the hardest to find, not only is it highly in demand for developers.
 
 These are the only options I were able to find that were good. Linode is an all-purpose hosting service which hosts `VMs` and `VPS`. Which you are free to install whatever you like.
 
-![BORDER](https://u.cubeupload.com/LeonFinnaCrazy/longlinesstraightlin.png)
+
 # Resources
 These sites provide you many resources to start-up your journey through whatever you are going through. These are mainly `Developer-focused` and might not have much use If you are looking forward into just casual use.
 
@@ -93,7 +93,7 @@ These options are usually not multipurpose and are mainly focused on **Unity**.
 
 There are **wwwaaayyy** more resources that you may find online. Just research online and find what you prefer, We'll include some of the Pull Requests to edit this section
 
-![BORDER](https://u.cubeupload.com/LeonFinnaCrazy/longlinesstraightlin.png)
+
 # It's about time we talk about **extensions**.
 Extensions are a great way to enhance your browser experience. It has so many possibilites to be created into such useful extensions. I'll be mentioning some today.
 
