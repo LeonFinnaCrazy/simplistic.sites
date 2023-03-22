@@ -1,5 +1,5 @@
 
-![WELCOME](https://rishavanand.github.io/static/images/greetings.gif)
+![WELCOME](https://u.cubeupload.com/LeonFinnaCrazy/download3.png)
 
 # simplistic.site
 An repository containing some really useful, simple, and free sites to use.
