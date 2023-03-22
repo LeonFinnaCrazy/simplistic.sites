@@ -112,3 +112,5 @@ Extensions are a great way to enhance your browser experience. It has so many po
 [![GitHub stars](https://badgen.net/github/stars/LeonFinnaCrazy/simplistic.sites)](https://badgen.net/github/stars/LeonFinnaCrazy/simplistic.sites)
 
 [![GitHub contributors](https://img.shields.io/github/contributors/LeonFinnaCrazy/simplistic.sites)](https://GitHub.com/Naereen/badges/graphs/contributors/)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
