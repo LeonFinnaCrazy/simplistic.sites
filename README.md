@@ -19,7 +19,7 @@ This repository is something that dosen't contain sites like that.
  - [Reddit](https://reddit.com)
  - [readme.so](https://readme.so) / Made this project possible
 
-![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/LeavesDividerPNGImag.png)
+![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/PngItem1318714.png)
 
 # Hosting Services
 
@@ -66,7 +66,7 @@ This one is the hardest to find, not only is it highly in demand for developers.
 
 These are the only options I were able to find that were good. Linode is an all-purpose hosting service which hosts `VMs` and `VPS`. Which you are free to install whatever you like.
 
-![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/LeavesDividerPNGImag.png)
+![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/PngItem1318714.png)
 # Resources
 These sites provide you many resources to start-up your journey through whatever you are going through. These are mainly `Developer-focused` and might not have much use If you are looking forward into just casual use.
 
@@ -94,7 +94,7 @@ These options are usually not multipurpose and are mainly focused on **Unity**.
 
 There are **wwwaaayyy** more resources that you may find online. Just research online and find what you prefer, We'll include some of the Pull Requests to edit this section
 
-![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/LeavesDividerPNGImag.png)
+![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/PngItem1318714.png)
 # It's about time we talk about **extensions**.
 Extensions are a great way to enhance your browser experience. It has so many possibilites to be created into such useful extensions. I'll be mentioning some today.
 
@@ -108,7 +108,7 @@ Extensions are a great way to enhance your browser experience. It has so many po
 
 - [momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) - An really clean looking homepage for chrome. No ads.
 
-![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/LeavesDividerPNGImag.png)
+![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/PngItem1318714.png)
 
 # Windows Customization Software
 Sometimes you just feel like making your Operating System feel like your own. But you don't know how. Windows limits our customization to our system. These options will help you customize it to the maximum
@@ -153,7 +153,7 @@ These applications are not that necessary for customization. They can be cpu-con
 
 [Notepad++](https://notepad-plus-plus.org/downloads/) - An advanced notepad. Simple and elegant
 
-[Winaero Tweaker](https://winaero.com/downloads/winaerotweaker.zip) - Tweak your windows settings, updates, register, etc. Contains many functions all in one app.!![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/LeavesDividerPNGImag.png)
+[Winaero Tweaker](https://winaero.com/downloads/winaerotweaker.zip) - Tweak your windows settings, updates, register, etc. Contains many functions all in one app.!!![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/PngItem1318714.png)
 
 [![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
 
