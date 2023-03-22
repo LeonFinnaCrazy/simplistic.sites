@@ -1,7 +1,10 @@
 
 ![WELCOME](https://u.cubeupload.com/LeonFinnaCrazy/download3.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=DB7B7B&multiline=true&repeat=false&width=435&lines=simplistic.sites;an+repository+listing+free+to+use+sites)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=DB7B7B&multiline=true&width=435&lines=simplistic.sites;an+repository+listing+free+to+use+sites+and+apps)](https://git.io/typing-svg)
+
+# simplistic.site
+An repository containing some really useful, simple, and free sites to use.
 
 ### What exactly does this contain?
 This repository contains free to use sites that get their purpose done. For example, if you go to `imgur.com`. You'll probably upload or find some pictures. But the site asks you to login, make your own, etc. Even if you don't want to do that.
@@ -15,11 +18,8 @@ This repository is something that dosen't contain sites like that.
 
  - [Reddit](https://reddit.com)
  - [readme.so](https://readme.so) / Made this project possible
- - [Other Sources] - My Experience
 
- 
-
-# Hosting Services
+![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/divider36058.png)Hosting Services
 
 It's usually hard to find good hosting services. You can't get a good free one nowadays. Here you may find some liable options.
 
@@ -36,16 +36,15 @@ It's usually hard to find good hosting services. You can't get a good free one n
 #### The following options above are some of the best options for image hosting. They're free, powerful, and simple. Most of them require `registration`.
 
 #### Stay away from these options at all cost. Only use them if it's necessary or your forced.
+- https://tinypic.com (Old Outdated interface, No multi image upload support, Compresses image, No hotlinking)
 
 - https://imgur.com (Compresses images, biased and deletes images based on their own opinion)
 
-- https://photobucket.com (Can't upload images as guest, Parent company of Tinypic)
+- https://photobucket.com (Can't upload images as guest, Parent company of Tinypic, so even worse than tinypic)
 
 - https://imageshack.us (Only paid accounts have unlimited bandwidth)
 
 ### Source - r/imguralternatives \ Imgur Alternatives
-
-![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/divider36058.png)
 
 # Multipurpose Hosting
 
@@ -66,7 +65,6 @@ This one is the hardest to find, not only is it highly in demand for developers.
 These are the only options I were able to find that were good. Linode is an all-purpose hosting service which hosts `VMs` and `VPS`. Which you are free to install whatever you like.
 
 ![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/divider36058.png)
-
 # Resources
 These sites provide you many resources to start-up your journey through whatever you are going through. These are mainly `Developer-focused` and might not have much use If you are looking forward into just casual use.
 
@@ -95,7 +93,6 @@ These options are usually not multipurpose and are mainly focused on **Unity**.
 There are **wwwaaayyy** more resources that you may find online. Just research online and find what you prefer, We'll include some of the Pull Requests to edit this section
 
 ![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/divider36058.png)
-
 # It's about time we talk about **extensions**.
 Extensions are a great way to enhance your browser experience. It has so many possibilites to be created into such useful extensions. I'll be mentioning some today.
 
@@ -111,10 +108,55 @@ Extensions are a great way to enhance your browser experience. It has so many po
 
 ![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/divider36058.png)
 
+# Windows Customization Software
+Sometimes you just feel like making your Operating System feel like your own. But you don't know how. Windows limits our customization to our system. These options will help you customize it to the maximum
+
+### Desktop Customization / Widgets
+
+[Rainmeter](https://www.rainmeter.net/) - An open source tool used to add widgets to your dekstop. This can also be used to customize your taskbar. 
+
+#### — Themes [ Sub Category ]
+[DevianArt](https://www.deviantart.com/rainmeter/gallery/23941137/skins) - Opens an gallery of Rainmeter themes to download. Over 200+
+
+[Visualskins](https://visualskins.com/) - An easy to use site to download themes directly! 
+
+[Rainmeter Discord](https://discord.com/invite/rainmeter) - Get themes within their discord server!
+
+#### Extra Software
+
+[BeWidgets](https://apps.microsoft.com/store/detail/bewidgets/9NQ07FG50H2Q?hl=en-us&gl=us) - An simple widget app. Uses less resources than **Rainmeter**.
+
+[]()
+
+## Taskbar Customization
+Customize your taskbar to it's limits with these applications!
+
+[TaskbarX](https://github.com/ChrisAnd1998/TaskbarX/releases) - An open source taskbar customization tool. Really useful and contains many functions!
+
+[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/releases/) - Use this to make your taskbar transparent in different styles such as `Acrylic, Clear, Opaque, etc.`
+
+[RoundedTB](https://github.com/torchgm/RoundedTB/releases/) - Used to make your taskbar have a **Rounded Border**. Which automatically take the size and length of your taskbar. **Contains TranslucentTB Support.** 
+
+## Wallpaper Customization
+Make your wallpaper **animated** and set a theme of your liking. Add music whenever you move to your Desktop!
+
+[Lively Wallpaper](https://www.rocksdanister.com/lively/) - An open sourced software used to animate your desktop wallpaper. Contains `NowPlaying API`. Which allows you to set a specific sound/music whenever you open your dekstop.
+
+[Wallpaper Cave](https://wallpapercave.com/) - High quality, HD wallpapers.
+
+## Other Software
+These applications are not that necessary for customization. They can be cpu-consuming and might cause time to load up If you're gonna replace them with the default windows app.
+
+[My Files-X](https://apps.microsoft.com/store/detail/my-filesx-free/9PMR0WKVHJFB) - A complete new file explorer. More functions. Desinged to match with Windows 11, but also works with Windows 10.
+
+[Notepad++](https://notepad-plus-plus.org/downloads/) - An advanced notepad. Simple and elegant
+
+[Winaero Tweaker](https://winaero.com/downloads/winaerotweaker.zip) - Tweak your windows settings, updates, register, etc. Contains many functions all in one app.![DIVIDER](https://u.cubeupload.com/LeonFinnaCrazy/divider36058.png)
+
 [![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
 
 [![GitHub stars](https://badgen.net/github/stars/LeonFinnaCrazy/simplistic.sites)](https://badgen.net/github/stars/LeonFinnaCrazy/simplistic.sites)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/LeonFinnaCrazy/simplistic.sites)](https://GitHub.com/Naereen/badges/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/LeonFinnaCrazy/simplistic.sites)](https://GitHub.com/LeonFinnaCrazy/simplistic.sites/graphs/contributors/)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
