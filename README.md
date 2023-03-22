@@ -109,6 +109,6 @@ Extensions are a great way to enhance your browser experience. It has so many po
 
 [![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
 
-[![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+[![GitHub stars](https://badgen.net/github/stars/LeonFinnaCrazy/simplistic.sites)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/LeonFinnaCrazy/simplistic.sites)](https://GitHub.com/Naereen/badges/graphs/contributors/)
