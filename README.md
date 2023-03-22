@@ -36,11 +36,10 @@ It's usually hard to find good hosting services. You can't get a good free one n
 #### The following options above are some of the best options for image hosting. They're free, powerful, and simple. Most of them require `registration`.
 
 #### Stay away from these options at all cost. Only use them if it's necessary or your forced.
-- https://tinypic.com (Old Outdated interface, No multi image upload support, Compresses image, No hotlinking)
 
 - https://imgur.com (Compresses images, biased and deletes images based on their own opinion)
 
-- https://photobucket.com (Can't upload images as guest, Parent company of Tinypic, so even worse than tinypic)
+- https://photobucket.com (Can't upload images as guest, Parent company of Tinypic)
 
 - https://imageshack.us (Only paid accounts have unlimited bandwidth)
 
